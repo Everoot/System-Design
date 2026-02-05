@@ -2,7 +2,7 @@
 
 A collection of system design diagrams created with Excalidraw for learning purposes.
 
-## 📋 Common System Design Topics
+## Common System Design Topics
 
 ### Core Concepts
 - [x] Consistent Hashing
@@ -46,7 +46,7 @@ A collection of system design diagrams created with Excalidraw for learning purp
 - [ ] Flink
 - [ ] ZooKeeper
 
-## 📁 Project Structure
+## Project Structure
 
 - `.excalidraw` files - Source design files
 - `images/` - Exported PNG images from Excalidraw diagrams
