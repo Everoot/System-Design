@@ -28,7 +28,7 @@ A collection of system design diagrams created with Excalidraw for learning purp
 
 
 ### Patterns
-- [ ] Real-time Updates
+- [x] [Real-time Updates](https://excalidraw.com/#json=tlCJKx9ij5nYbPX0Hlh5T,RC-ddNOIhtairnUt9U09Xw)
 - [ ] Dealing with Contention
 - [ ] Multi-step Processes
 - [ ] Scaling Reads
@@ -39,7 +39,7 @@ A collection of system design diagrams created with Excalidraw for learning purp
 ### Key Technologies
 - [ ] Redis
 - [ ] Elasticsearch
-- [ ] Kafka
+- [x] [Kafka](https://excalidraw.com/#json=jcRx-2Wkrub20i-b54XN1,8LqFBvg6TM4d75gJjuJM9w)
 - [ ] API Gateway
 - [ ] Cassandra
 - [ ] DynamoDB
