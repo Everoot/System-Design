@@ -15,7 +15,7 @@ A collection of system design diagrams created with Excalidraw for learning purp
 - [x] [Design Video Streaming Platform (YouTube or Netflix)](https://excalidraw.com/#json=MkwHQb4tqY4YzA1TosRfQ,c6qIAJOd1aDhuvmhniPA9g)
 - [x] [Design A News Feed System (Twitter or Facebook)](https://excalidraw.com/#json=bR2iOpj4KDPZYYY7KjD8a,eJNbLgJk2aqTFEBz7VaTag)
 - [x] [Design Chat System (WhatsApp or Messenger)](https://excalidraw.com/#json=7OHywlHhu4z1kU-Z-OM2P,gYNC8iQRrBNs0JPN0A0EFg)
-- [x] Design Ride Sharing System (Uber or Lyft)
+- [x] [Design Ride Sharing System (Uber or Lyft)](https://excalidraw.com/#json=Nn2TWjI1vZVF-UZfIOqW2,yoM2kYD-ZECRaAFcJPhRig)
 - [x] Design Payment System
 - [ ] Design Search Autocomplete (Google Suggest)
 - [x] Design a Distributed Cache System
