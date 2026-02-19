@@ -37,10 +37,11 @@ A collection of system design diagrams created with Excalidraw for learning purp
 - [ ] Managing Long Running Tasks
 
 ### Key Technologies
+- [x] [Kubernetes](https://excalidraw.com/#json=KCwM-QaxldDrNp1czAamx,VdCtBNvE6qdU8JCdL-DW0w)
 - [x] [AWS](https://excalidraw.com/#json=BOOJVzfy3NXslw8tSqNon,wCbz2A9wWl-EATPEUq47Ag)
 - [ ] Redis
 - [ ] Elasticsearch
-- [x] [Kafka](https://excalidraw.com/#json=jcRx-2Wkrub20i-b54XN1,8LqFBvg6TM4d75gJjuJM9w)
+- [x] [Kafka](https://excalidraw.com/#json=NWRBemubOhhcVGljeqftY,WF_nVT4oVIgueBc6NBH38Q)
 - [ ] API Gateway
 - [ ] Cassandra
 - [ ] DynamoDB
