@@ -5,8 +5,17 @@ A collection of system design diagrams created with Excalidraw for learning purp
 ## Common System Design Topics
 
 ### Core Concepts
-- [x] Consistent Hashing
-- [x] Sharding
+- [x] [API Design](https://excalidraw.com/#json=9DBnfCOUZt6c3jtdPtAq2,8mP9g2Qu76dr-EwEDB_Daw)
+- [x] [CAP Theorem]()
+- [x] [Consistent Hashing](https://excalidraw.com/#json=w9P6JWEZTrcQs1APrdWIy,wSpD02VaqYQb5j0zg9RzMQ)
+- [x] [Sharding](https://excalidraw.com/#json=tQK8lNGR77VBzwmDNfTs2,icf5qOuMBHGemT9_InXXFA)
+- [ ] Data Modeling
+- [ ] Delpoyment Strategies
+- [ ] JWT
+- [ ] OAuth2
+- [ ] Database Indexing  
+- [ ] Caching
+- [ ] Networking Essentials
 
 ### System Design
 - [x] [Design A URL Shortener (TinyURL or Bitly)](https://excalidraw.com/#json=zGjQ4t623Ii3TdwZB6olY,utO9aSmyRgY3a2wUL1qiiQ)
@@ -42,12 +51,17 @@ A collection of system design diagrams created with Excalidraw for learning purp
 - [ ] Redis
 - [ ] Elasticsearch
 - [x] [Kafka](https://excalidraw.com/#json=NWRBemubOhhcVGljeqftY,WF_nVT4oVIgueBc6NBH38Q)
-- [ ] API Gateway
+- [x] [API Gateway](https://excalidraw.com/#json=YF03rJJFiqJ0HysHUYGaT,x6ZdtbsdkNKg_sfhBU7cuA)
 - [ ] Cassandra
 - [ ] DynamoDB
 - [ ] PostgreSQL
 - [ ] Flink
 - [ ] ZooKeeper
+- [ ] RabbitMQ
+- [ ] Splunk
+- [ ] ELK
+- [ ] Circuit Breaker
+- [ ] Saga
 
 ## Project Structure
 
