@@ -6,15 +6,15 @@ A collection of system design diagrams created with Excalidraw for learning purp
 
 ### Core Concepts
 - [x] [API Design](https://excalidraw.com/#json=9DBnfCOUZt6c3jtdPtAq2,8mP9g2Qu76dr-EwEDB_Daw)
-- [x] [CAP Theorem]()
+- [x] [CAP Theorem](https://excalidraw.com/#json=46XjVT0aexlH2Z5V9fyHN,yGSJR3ugB1V2vxdqX-WTyQ)
 - [x] [Consistent Hashing](https://excalidraw.com/#json=w9P6JWEZTrcQs1APrdWIy,wSpD02VaqYQb5j0zg9RzMQ)
 - [x] [Sharding](https://excalidraw.com/#json=tQK8lNGR77VBzwmDNfTs2,icf5qOuMBHGemT9_InXXFA)
-- [ ] Data Modeling
+- [x] [Data Modeling](https://excalidraw.com/#json=KeXOxo9NJwJ7hwHW0D-AA,NIT3C5I6Lnjyo2TfDPjpGQ)
 - [ ] Delpoyment Strategies
 - [ ] JWT
 - [ ] OAuth2
 - [ ] Database Indexing  
-- [ ] Caching
+- [x] [Caching]()
 - [ ] Networking Essentials
 
 ### System Design
