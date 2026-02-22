@@ -10,11 +10,10 @@ A collection of system design diagrams created with Excalidraw for learning purp
 - [x] [Consistent Hashing](https://excalidraw.com/#json=w9P6JWEZTrcQs1APrdWIy,wSpD02VaqYQb5j0zg9RzMQ)
 - [x] [Sharding](https://excalidraw.com/#json=tQK8lNGR77VBzwmDNfTs2,icf5qOuMBHGemT9_InXXFA)
 - [x] [Data Modeling](https://excalidraw.com/#json=KeXOxo9NJwJ7hwHW0D-AA,NIT3C5I6Lnjyo2TfDPjpGQ)
-- [ ] Delpoyment Strategies
-- [ ] JWT
-- [ ] OAuth2
-- [ ] Database Indexing  
-- [x] [Caching]()
+- [x] [Delpoyment Strategies](https://excalidraw.com/#json=hMQPB7RWpdUEf0FqAGU6s,6vuITnB6UimfTVJjf-HSmw)
+- [x] [Security](https://excalidraw.com/#json=dNYUJP5Fbeotw-GnQdqE8,_wkIAyvDTYnvKWmpAK-73A)
+- [x] [Database Indexing](https://excalidraw.com/#json=kMY662kL3f0oigYrWwjkl,JoNmBJG88K__z-jY6NBP7g)
+- [x] [Caching](https://excalidraw.com/#json=lthqpy4kC4Ni9wNXOM3-w,A7n_WY05k7q0Py4l0zMemg)
 - [ ] Networking Essentials
 
 ### System Design
@@ -53,7 +52,7 @@ A collection of system design diagrams created with Excalidraw for learning purp
 - [x] [Kafka](https://excalidraw.com/#json=NWRBemubOhhcVGljeqftY,WF_nVT4oVIgueBc6NBH38Q)
 - [x] [API Gateway](https://excalidraw.com/#json=YF03rJJFiqJ0HysHUYGaT,x6ZdtbsdkNKg_sfhBU7cuA)
 - [ ] Cassandra
-- [ ] DynamoDB
+- [x] [DynamoDB](https://excalidraw.com/#json=sUaETIy3a8rkH9edTcfKl,v_4LzuPwgqe65c-xbQo0cg)
 - [ ] PostgreSQL
 - [ ] Flink
 - [ ] ZooKeeper
