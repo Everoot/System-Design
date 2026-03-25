@@ -14,7 +14,8 @@ A collection of system design diagrams created with Excalidraw for learning purp
 - [x] [Security](https://excalidraw.com/#json=dNYUJP5Fbeotw-GnQdqE8,_wkIAyvDTYnvKWmpAK-73A)
 - [x] [Database Indexing](https://excalidraw.com/#json=kMY662kL3f0oigYrWwjkl,JoNmBJG88K__z-jY6NBP7g)
 - [x] [Caching](https://excalidraw.com/#json=lthqpy4kC4Ni9wNXOM3-w,A7n_WY05k7q0Py4l0zMemg)
-- [ ] Networking Essentials
+- [ ] [Networking Essentials]()
+- [x] [Message Queue](https://excalidraw.com/#json=k0Xt5W0ZnQK8YmnoHDVkg,1dBkuFZCvquwf2ciVbfZlA)
 
 ### System Design
 - [x] [Design A URL Shortener (TinyURL or Bitly)](https://excalidraw.com/#json=zGjQ4t623Ii3TdwZB6olY,utO9aSmyRgY3a2wUL1qiiQ)
@@ -29,6 +30,14 @@ A collection of system design diagrams created with Excalidraw for learning purp
 - [x] Design a Distributed Cache System
 - [ ] Design A Distributed Message Queue
 - [ ] Design a Key-Value Store
+- [x] [Design Ticketmaster](https://excalidraw.com/#json=7Y1PvoqF4OjQ6cTvLo57q,VcTgDPyPEJBtaht9EXyHZg)
+- [ ] [Design Ad Click Aggregator]()
+- [ ] [Design Leetcode]()
+- [ ] [Design Web Crawler]()
+- [ ] [Design FB Live Comments]()
+- [ ] [Design FB News Feed]()
+- [ ] [Design FB Post Search]()
+- [ ] [Design Top-k Youtube Videos by View]()
 - [ ] Design Google Maps
 - [ ] Design Notification System
 - [ ] Design LLM inference service
@@ -61,6 +70,7 @@ A collection of system design diagrams created with Excalidraw for learning purp
 - [ ] ELK
 - [ ] Circuit Breaker
 - [ ] Saga
+- [ ] Time Series Deep Dive 
 
 ## Project Structure
 
