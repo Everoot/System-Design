@@ -64,7 +64,7 @@ A collection of system design diagrams created with Excalidraw for learning purp
 - [x] [DynamoDB](https://excalidraw.com/#json=sUaETIy3a8rkH9edTcfKl,v_4LzuPwgqe65c-xbQo0cg)
 - [ ] PostgreSQL
 - [x] [Flink](https://excalidraw.com/#json=uBz5OuWwiMaqD7iOwsZKJ,Q2l1PlScoEJMeTRn7lk5ig)
-- [x] [ZooKeeper]()
+- [x] [ZooKeeper](https://excalidraw.com/#json=iGtC9tlOpSwVSB43VATzR,SXfk1JIEjHwWO2CNTrwaow)
 - [x] RabbitMQ
 - [ ] Splunk
 - [ ] ELK
