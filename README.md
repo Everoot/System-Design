@@ -14,7 +14,7 @@ A collection of system design diagrams created with Excalidraw for learning purp
 - [x] [Security](https://excalidraw.com/#json=dNYUJP5Fbeotw-GnQdqE8,_wkIAyvDTYnvKWmpAK-73A)
 - [x] [Database Indexing](https://excalidraw.com/#json=kMY662kL3f0oigYrWwjkl,JoNmBJG88K__z-jY6NBP7g)
 - [x] [Caching](https://excalidraw.com/#json=lthqpy4kC4Ni9wNXOM3-w,A7n_WY05k7q0Py4l0zMemg)
-- [ ] [Networking Essentials]()
+- [x] [Networking Essentials]()
 - [x] [Message Queue](https://excalidraw.com/#json=k0Xt5W0ZnQK8YmnoHDVkg,1dBkuFZCvquwf2ciVbfZlA)
 
 ### System Design
@@ -63,9 +63,9 @@ A collection of system design diagrams created with Excalidraw for learning purp
 - [ ] Cassandra
 - [x] [DynamoDB](https://excalidraw.com/#json=sUaETIy3a8rkH9edTcfKl,v_4LzuPwgqe65c-xbQo0cg)
 - [ ] PostgreSQL
-- [ ] Flink
-- [ ] ZooKeeper
-- [ ] RabbitMQ
+- [x] [Flink](https://excalidraw.com/#json=uBz5OuWwiMaqD7iOwsZKJ,Q2l1PlScoEJMeTRn7lk5ig)
+- [x] [ZooKeeper]()
+- [x] RabbitMQ
 - [ ] Splunk
 - [ ] ELK
 - [ ] Circuit Breaker
