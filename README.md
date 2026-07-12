@@ -52,6 +52,7 @@ A collection of system design diagrams created with Excalidraw for learning purp
 - [ ] Scaling Writes
 - [ ] Handling Large Blobs
 - [ ] Managing Long Running Tasks
+- [ ] Outbox Pattern
 
 ### Key Technologies
 - [x] [Kubernetes](https://excalidraw.com/#json=KCwM-QaxldDrNp1czAamx,VdCtBNvE6qdU8JCdL-DW0w)
