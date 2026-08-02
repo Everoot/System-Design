@@ -71,7 +71,8 @@ A collection of system design diagrams created with Excalidraw for learning purp
 - [ ] ELK
 - [ ] Circuit Breaker
 - [ ] Saga
-- [ ] Time Series Deep Dive 
+- [ ] Time Series Deep Dive
+- [ ] Argo CD
 
 ## Project Structure
 
