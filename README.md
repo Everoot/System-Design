@@ -16,6 +16,16 @@ A collection of system design diagrams created with Excalidraw for learning purp
 - [x] [Caching](https://excalidraw.com/#json=lthqpy4kC4Ni9wNXOM3-w,A7n_WY05k7q0Py4l0zMemg)
 - [x] [Networking Essentials]()
 - [x] [Message Queue](https://excalidraw.com/#json=k0Xt5W0ZnQK8YmnoHDVkg,1dBkuFZCvquwf2ciVbfZlA)
+- [ ] Transformer Inference & KV Cache
+- [ ] Tokenization & Context Window Management
+- [ ] Embeddings & ANN Search (HNSW, IVF-PQ)
+- [ ] GPU Memory Budget & Throughput vs Latency
+- [ ] Model Quantization & Compression (FP8/INT4, GPTQ/AWQ, Distillation)
+- [ ] Feature Stores & Training-Serving Skew
+- [ ] Model Evaluation (Offline Eval, Online A/B, LLM-as-Judge)
+- [ ] AI Security (Prompt Injection, Jailbreak, PII Redaction, Output Filtering)
+- [ ] AI Cost Modeling ($/1M Tokens, GPU Utilization, Batch Size vs Latency)
+- [ ] Distributed Training Parallelism (Data / Tensor / Pipeline / Expert, ZeRO)
 
 ### System Design
 - [x] [Design A URL Shortener (TinyURL or Bitly)](https://excalidraw.com/#json=zGjQ4t623Ii3TdwZB6olY,utO9aSmyRgY3a2wUL1qiiQ)
@@ -40,9 +50,22 @@ A collection of system design diagrams created with Excalidraw for learning purp
 - [ ] [Design Top-k Youtube Videos by View]()
 - [ ] Design Google Maps
 - [ ] Design Notification System
-- [ ] Design LLM inference service
 - [ ] Design CICD / Github Action
-
+- [ ] Design an LLM Inference Service
+- [ ] Design a RAG System
+- [ ] Design a Vector Database
+- [ ] Design a Recommendation System
+- [ ] Design a Semantic Search System
+- [ ] Design an LLM Gateway (Multi-Model Routing)
+- [ ] Design an AI Agent Platform
+- [ ] Design an ML Training Platform (GPU Scheduling, Checkpointing)
+- [ ] Design an Ad Ranking / CTR Prediction System
+- [ ] Design a Content Moderation System (Multimodal)
+- [ ] Design a Real-time Fraud Detection System
+- [ ] Design an AI Code Assistant (Copilot)
+- [ ] Design a Text-to-Image Generation Service
+- [ ] Design a Real-time Voice Assistant (Streaming ASR → LLM → TTS)
+- [ ] Design an A/B Experimentation Platform
 
 ### Patterns
 - [x] [Real-time Updates](https://excalidraw.com/#json=tlCJKx9ij5nYbPX0Hlh5T,RC-ddNOIhtairnUt9U09Xw)
@@ -53,6 +76,18 @@ A collection of system design diagrams created with Excalidraw for learning purp
 - [ ] Handling Large Blobs
 - [ ] Managing Long Running Tasks
 - [ ] Outbox Pattern
+- [ ] Streaming Responses (SSE/WebSocket, Backpressure, Cancellation)
+- [ ] Continuous Batching
+- [ ] Prefix Caching & KV Cache Management
+- [ ] Retrieval Pipeline (Chunking, Hybrid Search, Reranking)
+- [ ] Semantic Caching
+- [ ] Guardrails (Input/Output Validation)
+- [ ] Model Fallback & Multi-Provider Routing
+- [ ] Idempotency & Retries under Non-determinism
+- [ ] Speculative Decoding
+- [ ] Human-in-the-Loop Review Queues
+- [ ] Shadow & Canary Model Rollout
+- [ ] Feedback Loops & the Data Flywheel
 
 ### Key Technologies
 - [x] [Kubernetes](https://excalidraw.com/#json=KCwM-QaxldDrNp1czAamx,VdCtBNvE6qdU8JCdL-DW0w)
@@ -73,6 +108,16 @@ A collection of system design diagrams created with Excalidraw for learning purp
 - [ ] Saga
 - [ ] Time Series Deep Dive
 - [ ] Argo CD
+- [ ] vLLM / SGLang (Inference Engines)
+- [ ] Vector Stores (pgvector, Milvus, Qdrant)
+- [ ] Ray & Ray Serve
+- [ ] Kubernetes GPU Scheduling (Device Plugin, MIG, Kueue)
+- [ ] MCP (Model Context Protocol)
+- [ ] Langfuse / OpenTelemetry GenAI (LLM Observability)
+- [ ] Feast (Feature Store)
+- [ ] Airflow / Dagster / Argo Workflows (Pipeline Orchestration)
+- [ ] Triton Inference Server / TensorRT-LLM
+- [ ] Parquet + Iceberg (Training Data Lake)
 
 ## Project Structure
 
