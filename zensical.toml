@@ -1,5 +1,6 @@
 [project]
 site_name = "System Design"
+site_url = "https://everoot.github.io/System-Design/"
 site_description = "System design interview topics and Excalidraw diagrams"
 repo_url = "https://github.com/Everoot/System-Design"
 repo_name = "Everoot/System-Design"
